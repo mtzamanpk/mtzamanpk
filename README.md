@@ -16,7 +16,7 @@ I want to continue learning more about game and web development, as seeing every
 
 **Skills:**
 * DevOps: GitHub, Visual Studio
-* Tools: WordPress, Raspberry Pi, Power Bi
+* Tools: WordPress, Raspberry Pi
 * Languages: Java, C++, Python, GDScript, Javascript, HTML, CSS, PHP
 * Data storage: MongoDB, SQL
 
