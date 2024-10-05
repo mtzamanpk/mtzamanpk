@@ -12,12 +12,12 @@ I want to continue learning more about game and web development, as seeing every
 
 **Current Projects:**
 
-* EviroFormer (ENSE 405)
+* 
 
 **Skills:**
 * DevOps: GitHub, Visual Studio
 * Tools: WordPress, Raspberry Pi
-* Languages: Java, C++, Python, GDScript, Javascript, HTML, CSS, PHP
+* Languages: Java, C++, Python, GDScript, Javascript, HTML, CSS, PHP, Django
 * Data storage: MongoDB, SQL
 
 **Stats**
