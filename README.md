@@ -22,13 +22,9 @@ I want to continue learning more about game and web development, as seeing every
 
 **Stats**
 
-Muhammad's GitHub stats GitHub Streak
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtzamanpk&theme=gruvbox_light)
-![Muhammad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mtzamanpk&theme=gruvbox_light&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mtzamanpk&theme=gruvbox_light)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mtzamanpk&theme=gruvbox_light&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtzamanpk&layout=compact&theme=gruvbox_light)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtzamanpk&layout=compact&theme=gruvbox_light)
 
-Visit Count
-
-[![](https://visitcount.itsvg.in/api?id=mtzamanpk&label=Profile%20Views&color=0&icon=5&pretty=true)]()
