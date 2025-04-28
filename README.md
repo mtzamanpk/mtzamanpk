@@ -12,7 +12,7 @@ I want to continue learning more about game and web development, as seeing every
 
 **Current Projects:**
 
-* 
+* SelfC
 
 **Skills:**
 * DevOps: GitHub, Visual Studio
