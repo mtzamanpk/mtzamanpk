@@ -1,30 +1,40 @@
-### Hi there, my name is Muhammad 👋
+## Muhammad Zaman 👋
 
-### Introduction
+**Software Systems Engineering Graduate | AI, Web & Game Dev Enthusiast**
 
-I am a Software Systems Engineering (SSE) Student at the Universtiy of Regina interested in learning more about AI, Game/Web devlopment, Security, Networks, Infrastructure, and Testing
+---
 
-I want to continue learning more about game and web development, as seeing everything merge together is interesting.
+### 🎓 About Me
 
-**Languages:**
-* English, Urdu 
+I'm a recent Software Systems Engineering (SSE) graduate from the **University of Regina**. I love exploring the intersection of:
 
+* **AI & Machine Learning**
+* **Game & Web Development**
+* **Security & Networks**- **Infrastructure & Testing**
 
-**Current Projects:**
+I thrive on learning new technologies and bringing ideas to life through code.
 
-* SelfC
+### 💼 Current Projects
 
-**Skills:**
-* DevOps: GitHub, Visual Studio
-* Tools: WordPress, Raspberry Pi
-* Languages: Java, C++, Python, GDScript, Javascript, HTML, CSS, PHP, Django
-* Data storage: MongoDB, SQL
+| Project Name    | Description                                                | Tech Stack                 | Status      |
+| --------------- | ---------------------------------------------------------- | -------------------------- | ----------- |
+| **SelfC**       | A self progress tracker using MERN stack and React Native. | MongoDB, Express.js, React Native, Node.js    | Early Development |
+| **LinkedOut**   | Dumbs down linkedin posts as comedic translations of posts.| React, Node.js, MongoDB    | Early Development   |
+| **SalatiTasks** | Prayer time scheduler and task manager.                    | Express.js, React Native + Expo, Supabase | Early Development   |
 
-**Stats**
+### 🛠️ Skills & Tools
 
+* **Languages:** Java · C++ · Python · JavaScript · GDScript · PHP · HTML · CSS
+* **Frameworks & Libraries:** Django · React · Godot Engine
+* **DevOps & Tools:** Git · GitHub · Docker · VS Code · WordPress · Raspberry Pi
+* **Databases & Storage:** MongoDB · SQL · Firebase
+* **Other:** CI/CD · Unit Testing · REST APIs · Networking
 
-![](https://github-readme-stats.vercel.app/api?username=mtzamanpk&theme=gruvbox_light)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mtzamanpk&theme=gruvbox_light&hide_border=true)
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtzamanpk&layout=compact&theme=gruvbox_light)
+### 📫 Connect with Me
 
+* 🌐 **Website:** [mtzaman.dev](https://mtzamanpk.vercel.app/)
+* 🐦 **Twitter:** [@mtzamanpk](https://twitter.com/mtzamanpk)
+* 💼 **LinkedIn:** [Muhammad Zaman](https://linkedin.com/in/mtzamanpk)
+* 📧 **Email:** [mzamanpk@gmail.ca](mailto:mzamanpk@gmail.com)
