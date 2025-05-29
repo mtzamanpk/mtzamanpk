@@ -19,8 +19,8 @@ I thrive on learning new technologies and bringing ideas to life through code.
 | Project Name    | Description                                                | Tech Stack                 | Status      |
 | --------------- | ---------------------------------------------------------- | -------------------------- | ----------- |
 | **SelfC**       | A self progress tracker using MERN stack and React Native. | MongoDB, Express.js, React Native, Node.js    | Early Development |
-| **LinkedOut**   | Dumbs down linkedin posts as comedic translations of posts.| React, Node.js, MongoDB    | Early Development   |
 | **SalatiTasks** | Prayer time scheduler and task manager.                    | Express.js, React Native + Expo, Supabase | Early Development   |
+| **Stealth Project** | TBA                    | Express.js, React Native + Expo, Supabase | Early Development   |
 
 ### 🛠️ Skills & Tools
 
