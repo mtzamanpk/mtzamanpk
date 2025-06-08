@@ -35,6 +35,5 @@ I thrive on learning new technologies and bringing ideas to life through code.
 ### 📫 Connect with Me
 
 * 🌐 **Website:** [mtzaman.dev](https://mtzamanpk.vercel.app/)
-* 🐦 **Twitter:** [@mtzamanpk](https://twitter.com/mtzamanpk)
 * 💼 **LinkedIn:** [Muhammad Zaman](https://linkedin.com/in/mtzamanpk)
 * 📧 **Email:** [mzamanpk@gmail.ca](mailto:mzamanpk@gmail.com)
