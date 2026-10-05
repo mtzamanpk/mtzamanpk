@@ -1,0 +1,167 @@
+%-------------------------
+% Résumé in LaTeX  –  Muhammad Zaman
+%-------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\ifdefined\pdfglyphtounicode
+  \input{glyphtounicode}
+\fi
+
+% ---------- FONT OPTIONS (commented out) ----------
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% ---------- Margins ----------
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% ---------- Section formatting ----------
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\ifdefined\pdfgentounicode
+  \pdfgentounicode=1  % ATS readable with pdfTeX
+\fi
+
+% ---------- Custom commands ----------
+\newcommand{\resumeItem}[1]{%
+  \item\small{#1 \vspace{-2pt}}}
+
+\newcommand{\resumeSubheading}[4]{%
+  \vspace{-2pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    #1 & #2 \\
+    \textit{\small #3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-7pt}}
+
+\newcommand{\resumeSubSubheading}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textit{\small #1} & \textit{\small #2} \\
+  \end{tabular*}\vspace{-7pt}}
+
+\newcommand{\resumeProjectHeading}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \small #1 & #2 \\
+  \end{tabular*}\vspace{-7pt}}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[itemsep=1pt,topsep=2pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+% =================================================
+%                    DOCUMENT
+% =================================================
+\begin{document}
+\begin{center}
+  {\Huge\scshape Muhammad Zaman} \\[2pt]
+  \small 306-351-0434 $|$
+  \href{mailto:mtzamanpk@gmail.com}{mtzamanpk@gmail.com} $|$
+  \href{https://www.linkedin.com/in/mtzamanpk/}{linkedin.com/in/mtzamanpk} $|$
+  \href{https://github.com/mtzamanpk}{github.com/mtzamanpk} \\
+  \href{https://mtzamanpk.vercel.app/}{mtzamanpk.vercel.app}
+\end{center}
+
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {University of Regina}{Regina, SK}
+    {Bachelor of Science in Software Systems Engineering}{Sept 2020 -- Apr 2025}
+\resumeSubHeadingListEnd
+
+\section{Technical Skills and Awards}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small \item {
+    \textbf{Languages:} Python, TypeScript, JavaScript, Swift, C\#, Java, C++, SQL, HTML/CSS \\
+    \textbf{Frameworks:} React, React Native, Expo, Next.js, Django, Express, SwiftUI, PySide6, VTK \\
+    \textbf{Data \& Cloud:} PostgreSQL, SQLAlchemy, MongoDB, Supabase, SQLite, Azure Functions, Docker \\
+    \textbf{Engineering:} Git, GitHub Actions, pytest, XCTest, Ruff, REST APIs, CI/CD, Agile/Scrum \\
+    \textbf{Awards:} 4-time Engineering Programming Competition Winner (\$1,000)
+  }
+\end{itemize}
+
+\section{Experience}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Software Engineer}{May 2024 -- Present}
+    {AMB.AI / Ambitionner}{Remote}
+    \resumeItemListStart
+      \resumeItem{Built AmbDrift tunnel-monitoring workflows in Python, PySide6, and VTK, integrating sensor time series, 3D deformation views, crack inspection, and risk-assessment results.}
+      \resumeItem{Unified observed and predicted tunnel deformation under a shared rendering pipeline; introduced background task orchestration with cooperative cancellation, progress signals, and resource cleanup.}
+      \resumeItem{Implemented AmbHub REST APIs and typed clients for tunnel materials and calibrated profiles, enforcing scope validation and race-safe PostgreSQL upserts so operators could update data without direct database access.}
+      \resumeItem{Developed calibrated sensor-data processing with nightly and manual Azure Functions triggers, repeatable upserts, and per-sensor error isolation to keep malformed readings from aborting an entire batch.}
+      \resumeItem{Established pytest unit/integration tests and GUI regressions for timeout recovery, stale-result handling, and numerical calculations; added Ruff quality gates across application, backend, and worker repositories.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {Software Engineer (Part-Time)}{Jan 2022 -- Present}
+    {Kosichi Solutions}{Remote}
+    \resumeItemListStart
+      \resumeItem{Delivered client websites and application features using React, Express, MongoDB, and WordPress, translating client requirements into responsive interfaces and backend integrations.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {IT Support Specialist (Service Desk)}{Jan 2023 -- Dec 2023}
+    {Information Services, University of Regina}{Regina, SK}
+    \resumeItemListStart
+      \resumeItem{Resolved hardware, software, network, and account incidents for students and staff; documented troubleshooting procedures and followed university IT security policies.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+\section{Selected Projects}
+\resumeSubHeadingListStart
+  \resumeProjectHeading
+    {\textbf{\href{https://vx-converter.vercel.app/}{VX Converter}} $|$ \emph{Python, Discord API, Docker, Railway}}{}
+    \resumeItemListStart
+      \resumeItem{Built and operate a Discord bot serving \textbf{3,000+ users}, automatically converting social-media links into rich previews with per-server settings and interactive slash commands.}
+      \resumeItem{Hardened delivery with provider validation, fallback routing, bounded requests, caching, and atomic settings writes; added 33 automated tests covering conversion reliability and failure handling.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{VOW} $|$ \emph{Swift, SwiftUI, SwiftData, Screen Time APIs, XCTest}}{}
+    \resumeItemListStart
+      \resumeItem{Developed an iOS goal-execution app combining roadmaps, daily commitments, focus sessions, and Screen Time app shielding, with persistent local data and subscription integration.}
+      \resumeItem{Implemented regression coverage for day-boundary/DST behavior, async persistence, and protection recovery; prepared TestFlight builds and App Store submission workflows.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\textbf{\href{https://github.com/mtzamanpk/Fleet}{Fleet}} $|$ \emph{React, React Native, Expo, Express, MongoDB}}{}
+    \resumeItemListStart
+      \resumeItem{Co-developed a ride-sharing capstone with driver-set fares; implemented driver registration, document review and approval, ride-location inputs, and an administrative dashboard.}
+      \resumeItem{Built rider profile, receipt, and privacy-setting interfaces and corrected fare calculations; documented system behavior, security considerations, and user workflows.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+\end{document}

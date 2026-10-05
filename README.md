@@ -6,10 +6,10 @@
 
 ### 🎓 About Me
 
-I'm a Software Systems Engineering (SSE) graduate from the **University of Regina**. I build web and mobile applications, practical automation, and games, with a focus on solving everyday problems. My interests include:
+I'm a Software Systems Engineering (SSE) graduate from the **University of Regina**. I build web and mobile applications and practical automation, with a focus on solving everyday problems. My interests include:
 
 * **AI & Machine Learning**
-* **Game & Web Development**
+* **Web & Mobile Development**
 * **Security & Networks**
 * **Infrastructure & Testing**
 
@@ -17,7 +17,7 @@ I thrive on learning new technologies and bringing ideas to life through code.
 
 ### 🚀 Featured Projects
 
-Some of my most substantial projects, spanning community tools, transportation, business automation, and game development.
+Some of my most substantial projects, spanning community tools, transportation, business automation, and mobile development.
 
 #### VX Converter — Better Link Sharing on Discord
 
@@ -43,14 +43,6 @@ Built Python automation for a PC-hardware influencer agency, connecting creator 
 
 *Private repository.*
 
-#### EnviroFormer — Godot Game Project
-
-Developed a Godot 4 game with a downloadable Windows release, source code, and documented Scrum milestones. A substantial game-development project covering implementation, release packaging, and team planning.
-
-**Stack:** Godot 4 · GDScript
-
-[Source & Releases](https://github.com/mtzamanpk/EnviroFormer)
-
 ### 💼 Latest Projects & Recent Work
 
 | Project | What I'm Building | Stack | Stage |
@@ -64,8 +56,8 @@ Developed a Godot 4 game with a downloadable Windows release, source code, and d
 
 ### 🛠️ Skills & Tools
 
-* **Languages:** Python · JavaScript · TypeScript · Swift · Java · C++ · GDScript · PHP · HTML · CSS
-* **Frameworks & Libraries:** React · React Native · Expo · Next.js · Node.js · Express · Django · SwiftUI · Godot Engine
+* **Languages:** Python · JavaScript · TypeScript · Swift · Java · C++ · PHP · HTML · CSS
+* **Frameworks & Libraries:** React · React Native · Expo · Next.js · Node.js · Express · Django · SwiftUI
 * **DevOps & Tools:** Git · GitHub · Docker · VS Code · WordPress · Raspberry Pi
 * **Databases & Storage:** MongoDB · PostgreSQL · Supabase · SQLite · SwiftData · Firebase
 * **Other:** CI/CD · Unit Testing · REST APIs · Networking
